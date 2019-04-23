@@ -1,0 +1,9 @@
+#path4586 {
+display: inline;
+animation: blink 0.5s infinite;
+}
+
+@keyframes blink {
+    0% {}
+    50% {display:none;}
+}
